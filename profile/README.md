@@ -30,7 +30,7 @@ Properties in Order.
 | Application | Action to release |
 | ----------- |----------- |
 | Home page | [Deploy action](https://github.com/PropOrdo/propordo-ui/actions/workflows/main.yaml) |
-| Web | [Deploy action](https://github.com/propordo/propordo-web/actions/workflows/main.yaml) |
+| Web | [Deploy action](https://github.com/propordo/propordo-landing/actions/workflows/main.yaml) |
 | API| [Deploy action](https://github.com/propordo/propordo-api/actions/workflows/main.yaml) |
 | DB| [Deploy action](https://github.com/propordo/propordo-db/actions/workflows/release.yaml) |
 | Models| [Deploy action](https://github.com/propordo/propordo-models/actions/workflows/release.yaml) |
